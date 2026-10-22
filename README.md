@@ -1,20 +1,15 @@
-<<<<<<< HEAD
-# Hack_RAG
-=======
-rascunho para implementação prática:
-escrever código python (utilizando google colab - jupyter notebook, facilitando interação com os colegas de projeto) para:
-- ingerir dados da camara municipal (formularios, documentaçao, etc., ...);
-- modelação de dados (ID, categorização, ...);
-- criar modelo rag para comunicação base de dados <-> utilizador;
-- modelar front-end minimalista e escalável.
-- recolher dados de interação para devolver futuramente ao utilizador ou para KPIs da camara...
+**M.E.L.** 
 
-desafio "Falar com a Câmara sem burocracia".
-No portal identificamos que o menu "https://www.cm-guimaraes.pt/servicos-online/formularios" poderá ser um ponto crítico e relevante para atuar.
-Em traços gerais, a ideia passaria por substituir este processo de interação por um assistente de navegação dos serviços municipais baseado em intenções reais dos cidadãos.
-A estrutura do nosso produto seria algo aproximado a:
-Camada 1 - ingestão de dados como formulários, documentação, legislação...
-Camada 2 - modelação da base de dados
-Camada 3 - modelo LLM para comunicação entre o utilizador final e a base de dados
-Camada 4 - user interface minimalista e escalável
->>>>>>> main
+**Municipal Efficiency Layer** 
+
+*Documento de apresentação do projeto | Hackathon 2026* 
+
+A M.E.L. é um protótipo de assistente digital baseado em Inteligência Artificial, concebido para ajudar cidadãos a  encontrar e compreender informação sobre serviços e procedimentos municipais. O objetivo é tornar a informação  mais fácil de descobrir, explicar em linguagem simples os próximos passos e melhorar a acessibilidade do  contacto com os serviços municipais. 
+
+**1\. O problema que queremos resolver** 
+
+Encontrar o formulário certo, perceber que documentos são necessários ou descobrir os passos para tratar de um  assunto municipal pode obrigar o cidadão a navegar por várias páginas e a interpretar linguagem administrativa. A  informação pode existir online, mas nem sempre é fácil localizá-la, relacioná-la ou compreendê-la rapidamente. 
+
+Esta dificuldade pode ser maior para pessoas com pouca literacia digital, dificuldades visuais, ou para quem prefere fazer perguntas em vez de pesquisar num portal. 
+
+M.E.L. — Municipal Efficiency Layer | Documento de trabalho do hackathon 
