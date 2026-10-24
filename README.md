@@ -1,10 +1,10 @@
-# Balcão Aberto — M.E.L.
+# M.E.L.
 
 **AI-Powered Municipal Information Assistant | Hack4Guimarães**
 
 Making municipal information easier to find, understand, and use.
 
-> **Disclaimer:** Balcão Aberto is a hackathon prototype. It is not an official municipal service of the Municipality of Guimarães and does not replace official guidance.
+> **Disclaimer:** M.E.L. is a hackathon prototype. It is not an official municipal service of the Municipality of Guimarães and does not replace official guidance.
 
 **Languages:** [🇺🇸 English (US)](#overview) · [🇵🇹 Português (Portugal)](#visão-geral)
 
@@ -29,9 +29,9 @@ Making municipal information easier to find, understand, and use.
 
 ## Overview
 
-**Balcão Aberto** is an experimental project that explores how generative AI and Retrieval-Augmented Generation (RAG) can make municipal information more accessible to citizens in Guimarães, Portugal.
+**M.E.L.** is an experimental project that explores how generative AI and Retrieval-Augmented Generation (RAG) can make municipal information more accessible to citizens in Guimarães, Portugal.
 
-Municipal procedures often require citizens to navigate multiple web pages and documents, interpret administrative terminology, and identify the forms and supporting documents required for a particular request. Balcão Aberto aims to simplify this process through **M.E.L.**, a conversational assistant designed to help citizens find relevant information, understand administrative procedures, and prepare supporting documentation.
+Municipal procedures often require citizens to navigate multiple web pages and documents, interpret administrative terminology, and identify the forms and supporting documents required for a particular request. M.E.L. aims to simplify this process through **M.E.L.**, a conversational assistant designed to help citizens find relevant information, understand administrative procedures, and prepare supporting documentation.
 
 The prototype retrieves information from the Municipality of Guimarães’ public online forms portal, generates answers in plain Portuguese, and provides links to relevant source pages whenever available.
 
@@ -49,7 +49,7 @@ Municipal information can be difficult to navigate because:
 
 ## The Solution
 
-Balcão Aberto provides a conversational interface where citizens can ask questions in natural language and receive answers grounded in retrieved municipal information.
+M.E.L. provides a conversational interface where citizens can ask questions in natural language and receive answers grounded in retrieved municipal information.
 
 The system combines document ingestion, semantic search, relevance filtering, a large language model, and document-generation capabilities. It also explores voice interaction and scenario-based planning for more complex municipal requests.
 
@@ -305,7 +305,7 @@ Further evaluation should measure retrieval precision and recall, factual accura
 
 ## Responsible AI, Privacy, and Limitations
 
-Balcão Aberto is an experimental prototype. It should not be used as a substitute for official municipal guidance or as the sole basis for administrative or legal decisions.
+M.E.L. is an experimental prototype. It should not be used as a substitute for official municipal guidance or as the sole basis for administrative or legal decisions.
 
 ### Accuracy and source reliability
 
@@ -369,21 +369,21 @@ For questions that cannot be answered from the available information, the protot
 
 ## Project Context
 
-Developed for **Hack4Guimarães**, Balcão Aberto explores how AI can make municipal information easier to find, understand, and use.
+Developed for **Hack4Guimarães**, M.E.L. explores how AI can make municipal information easier to find, understand, and use.
 
 M.E.L. is a prototype of a more accessible way to navigate municipal information: ask a question, understand the available guidance, verify the sources, and prepare for the next step.
 
-**Balcão Aberto — Ask. Understand. Prepare.**
+**M.E.L. — Ask. Understand. Prepare.**
 
 ---
 
-# Balcão Aberto — M.E.L.
+# M.E.L.
 
 **Assistente de Informação Municipal com IA | Hack4Guimarães**
 
 Tornar a informação municipal mais fácil de encontrar, compreender e utilizar.
 
-> **Aviso:** O Balcão Aberto é um protótipo desenvolvido para um hackathon. Não é um serviço oficial do Município de Guimarães e não substitui a orientação oficial.
+> **Aviso:** M.E.L. é um protótipo desenvolvido para um hackathon. Não é um serviço oficial do Município de Guimarães e não substitui a orientação oficial.
 
 **Idiomas:** [🇵🇹 Português (Portugal)](#visão-geral) · [🇺🇸 English (US)](#overview)
 
@@ -398,7 +398,7 @@ Tornar a informação municipal mais fácil de encontrar, compreender e utilizar
 - [Tecnologias Utilizadas](#tecnologias-utilizadas)
 - [Fonte de Dados](#fonte-de-dados)
 - [Como Começar](#como-começar)
-- [Como Utilizar o M.E.L.](#como-utilizar-o-mel)
+- [Como Utilizar M.E.L.](#como-utilizar-mel)
 - [Avaliação](#avaliação)
 - [IA Responsável, Privacidade e Limitações](#ia-responsável-privacidade-e-limitações)
 - [Contactos Oficiais do Município](#contactos-oficiais-do-município)
@@ -407,9 +407,9 @@ Tornar a informação municipal mais fácil de encontrar, compreender e utilizar
 
 ## Visão Geral
 
-O **Balcão Aberto** é um projeto experimental que explora como a inteligência artificial generativa e a Geração Aumentada por Recuperação (*Retrieval-Augmented Generation*, RAG) podem facilitar o acesso dos cidadãos à informação municipal em Guimarães, Portugal.
+**M.E.L.** é um projeto experimental que explora como a inteligência artificial generativa e a Geração Aumentada por Recuperação (*Retrieval-Augmented Generation*, RAG) podem facilitar o acesso dos cidadãos à informação municipal em Guimarães, Portugal.
 
-A consulta de procedimentos municipais pode obrigar os cidadãos a percorrer várias páginas e documentos, interpretar linguagem administrativa e identificar os formulários e documentos necessários para cada pedido. O Balcão Aberto procura simplificar este processo através do **M.E.L.**, um assistente conversacional concebido para ajudar os cidadãos a encontrar informação relevante, compreender procedimentos administrativos e preparar documentação de apoio.
+A consulta de procedimentos municipais pode obrigar os cidadãos a percorrer várias páginas e documentos, interpretar linguagem administrativa e identificar os formulários e documentos necessários para cada pedido. M.E.L. procura simplificar este processo através do **M.E.L.**, um assistente conversacional concebido para ajudar os cidadãos a encontrar informação relevante, compreender procedimentos administrativos e preparar documentação de apoio.
 
 O protótipo recupera informação do portal público de formulários da Câmara Municipal de Guimarães, gera respostas em português simples e apresenta ligações às páginas de origem relevantes, sempre que disponíveis.
 
@@ -427,7 +427,7 @@ A informação municipal pode ser difícil de consultar porque:
 
 ## A Solução
 
-O Balcão Aberto disponibiliza uma interface conversacional na qual os cidadãos podem colocar perguntas em linguagem natural e receber respostas fundamentadas na informação municipal recuperada.
+M.E.L. disponibiliza uma interface conversacional na qual os cidadãos podem colocar perguntas em linguagem natural e receber respostas fundamentadas na informação municipal recuperada.
 
 O sistema combina recolha de documentos, pesquisa semântica, filtragem por relevância, um modelo de linguagem de grande dimensão e funcionalidades de geração de documentos. Explora também a interação por voz e o planeamento de cenários para pedidos municipais mais complexos.
 
@@ -633,7 +633,7 @@ Utiliza essa ligação para abrir o protótipo no navegador.
 
 > Uma ligação de partilha não corresponde a uma implementação de produção e não deve ser considerada um serviço público seguro ou permanente. Não utilizes dados pessoais reais de cidadãos na demonstração.
 
-## Como Utilizar o M.E.L.
+## Como Utilizar M.E.L.
 
 A interface disponibiliza dois fluxos de trabalho principais.
 
@@ -683,7 +683,7 @@ Uma avaliação futura deverá medir a precisão e a cobertura da recuperação,
 
 ## IA Responsável, Privacidade e Limitações
 
-O Balcão Aberto é um protótipo experimental. Não deve ser utilizado em substituição da orientação oficial do Município nem como única base para decisões administrativas ou jurídicas.
+M.E.L. é um protótipo experimental. Não deve ser utilizado em substituição da orientação oficial do Município nem como única base para decisões administrativas ou jurídicas.
 
 ### Exatidão e fiabilidade das fontes
 
@@ -747,8 +747,8 @@ Quando a informação disponível não permite responder a uma questão, o prot�
 
 ## Contexto do Projeto
 
-Desenvolvido no âmbito do **Hack4Guimarães**, o Balcão Aberto explora como a inteligência artificial pode tornar a informação municipal mais fácil de encontrar, compreender e utilizar.
+Desenvolvido no âmbito do **Hack4Guimarães**, M.E.L. explora como a inteligência artificial pode tornar a informação municipal mais fácil de encontrar, compreender e utilizar.
 
-O M.E.L. é um protótipo de uma forma mais acessível de navegar pela informação municipal: colocar uma pergunta, compreender a orientação disponível, verificar as fontes e preparar o passo seguinte.
+M.E.L. é um protótipo de uma forma mais acessível de navegar pela informação municipal: colocar uma pergunta, compreender a orientação disponível, verificar as fontes e preparar o passo seguinte.
 
-**Balcão Aberto — Perguntar. Compreender. Preparar.**
+**M.E.L. — Perguntar. Compreender. Preparar.**
